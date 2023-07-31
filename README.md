@@ -1,5 +1,5 @@
 
-# Django Rest Api w/ Scrapy
+# Django Rest API w/ Scrapy
 
 This is a python test that scrape data from a website then save the data in database the retrieve scrape data using Django Rest Api.
 
