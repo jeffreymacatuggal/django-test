@@ -10,7 +10,7 @@ This is a python test that scrape data from a website then save the data in data
 1. Open your terminal and clone this project
 
 ```shell
-commands here
+git clone https://github.com/jeffreymacatuggal/django-test.git
 ```
 
 2. change your directory to this project
